@@ -15,7 +15,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Get started by editing{' '}
+          Get started by editing{'elivepages infotech'}
           <code className={styles.code}>pages/index.js</code>
         </p>
 
@@ -56,7 +56,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{' '}
+          Powered by{' eLivepages '}
           <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
         </a>
       </footer>
